@@ -1,0 +1,8 @@
+__init__.py
+gaussian_code.py
+gaussian_distribution.py
+setup.py
+Gaussian.egg-info/PKG-INFO
+Gaussian.egg-info/SOURCES.txt
+Gaussian.egg-info/dependency_links.txt
+Gaussian.egg-info/top_level.txt
